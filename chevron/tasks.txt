@@ -1,0 +1,3 @@
+updated base images
+verified backups
+checked restore path
