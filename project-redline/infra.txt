@@ -1,0 +1,3 @@
+legacy services removed
+monitoring simplified
+on-call handed back
