@@ -1,6 +1,6 @@
-- [] Handover laptop
-- [] Write down documentation
-- [] Revoke access
+- [X] Handover laptop
+- [X] Write down documentation
+- [X] Revoke access
 
 
 # Jump host migration notes
